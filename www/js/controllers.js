@@ -52,7 +52,7 @@ angular.module('starter.controllers', [])
   
   $scope.gps = 'aguardando';
   
-  $scope.test = function(){
+  $scope.checkGPS = function(){
     CheckGPS.check(function(){
       //GPS is enabled!
       $scope.$apply(function(){
@@ -89,7 +89,7 @@ angular.module('starter.controllers', [])
     });
   });
   
-  $scope.init = function(){
+  $scope.geolocalizacao = function(){
     console.log('evento lançado');
     navigator.geolocation.getCurrentPosition(suc, err, {
       timeout: 15000,
