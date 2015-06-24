@@ -43,6 +43,9 @@
         <param name="id" value="org.apache.cordova.network-information" />
     </feature>
     <feature name="Geolocation">
-        <param name="android-package" value="org.apache.cordova.geolocation.GeoBroker"/>
+        <param name="android-package" value="org.apache.cordova.geolocation.GeoBroker" />
+    </feature>
+    <feature name="checkGPS">
+        <param name="id" value="de.fastr.phonegap.plugins.CheckGPS" />
     </feature>
 </widget>
