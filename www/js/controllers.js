@@ -73,7 +73,6 @@ angular.module('starter.controllers', [])
   
   $scope.con = function(){
     console.log(navigator.connection.type);
-    console.log(connection.type);
   }
   
   $document.bind('online', function(){
