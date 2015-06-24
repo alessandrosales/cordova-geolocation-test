@@ -1,0 +1,21 @@
+{
+    "jscodehints.detectedExclusions": [
+        "/home/alessandro/Workspace/ionic/appMap/platforms/android/assets/www/lib/angular-sanitize/angular-sanitize.js",
+        "/home/alessandro/Workspace/ionic/appMap/platforms/android/assets/www/lib/angular/angular.min.js",
+        "/home/alessandro/Workspace/ionic/appMap/gulpfile.js",
+        "/home/alessandro/Workspace/ionic/appMap/hooks/after_prepare/010_add_platform_class.js",
+        "/home/alessandro/Workspace/ionic/appMap/platforms/android/assets/www/cordova.js",
+        "/home/alessandro/Workspace/ionic/appMap/platforms/android/assets/www/cordova_plugins.js",
+        "/home/alessandro/Workspace/ionic/appMap/platforms/android/assets/www/js/controllers.js",
+        "/home/alessandro/Workspace/ionic/appMap/platforms/android/assets/www/js/services.js",
+        "/home/alessandro/Workspace/ionic/appMap/platforms/android/assets/www/js/app.js",
+        "/home/alessandro/Workspace/ionic/appMap/platforms/android/assets/www/plugins/com.ionic.keyboard/www/keyboard.js",
+        "/home/alessandro/Workspace/ionic/appMap/platforms/android/assets/www/lib/angular/angular.js",
+        "/home/alessandro/Workspace/ionic/appMap/platforms/android/assets/www/lib/angular-animate/angular-animate.js",
+        "/home/alessandro/Workspace/ionic/appMap/platforms/android/assets/www/lib/angular-animate/angular-animate.min.js",
+        "/home/alessandro/Workspace/ionic/appMap/platforms/android/assets/www/lib/angular-sanitize/angular-sanitize.min.js",
+        "/home/alessandro/Workspace/ionic/appMap/platforms/android/assets/www/lib/angular-ui-router/release/angular-ui-router.min.js",
+        "/home/alessandro/Workspace/ionic/appMap/platforms/android/assets/www/lib/angular-ui-router/release/angular-ui-router.js",
+        "/home/alessandro/Workspace/ionic/appMap/platforms/android/assets/www/lib/angular-ui-router/src/stateFilters.js"
+    ]
+}
